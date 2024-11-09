@@ -1,16 +1,7 @@
-# proj
+# MAD project B049,057,062
 
-A new Flutter project.
+SplitWise App - Expense Tracker + Bill Splitter
 
-## Getting Started
+- **PRESENTATION** - https://docs.google.com/presentation/d/1ozvM3LI3MwHZTAJIeoPYu8o91BTFGPw4mH1Fgpbwan4/edit?usp=sharing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **REPORT** - https://docs.google.com/document/d/1frOo4Nb386whIsYwWd20qlC4_yn2HjSf5o_50VtA3O0/edit?usp=sharing
